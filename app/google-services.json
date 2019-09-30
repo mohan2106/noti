@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "259490244902",
+    "firebase_url": "https://noti-45b95.firebaseio.com",
+    "project_id": "noti-45b95",
+    "storage_bucket": "noti-45b95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259490244902:android:aba8759def97aee821b9e7",
+        "android_client_info": {
+          "package_name": "com.example.noti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259490244902-h17v7p1gp0fueqtl1uru2i0e97elgldi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.noti",
+            "certificate_hash": "3838d55a8ed9aa89f8a51a997a8450a91964a716"
+          }
+        },
+        {
+          "client_id": "259490244902-6tmeccdu4g781874oh8vmajm9ilhaeoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNqWEJ6WmYqWtKQfybSR6d7eR1tVCNgzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259490244902-6tmeccdu4g781874oh8vmajm9ilhaeoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
